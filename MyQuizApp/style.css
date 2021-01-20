@@ -1,0 +1,26 @@
+html,body,div,span,iframe,h1,h2,h3,h4,h5,p,a,img,ul,li,table,tr,th,td,tbody,footer,header,main,nav,section {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-weight: normal;
+	list-style: none;
+	text-decoration: none;
+}
+
+.main-contents{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.sentence{
+    width: auto;
+    height: 50px;
+    background-color: rgb(0, 255, 225);
+    padding-top: 20px;
+}
+
+button{
+    width: 20%;
+    height: 40px;
+    margin-left: 10px;
+}
